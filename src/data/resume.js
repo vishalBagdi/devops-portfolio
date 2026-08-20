@@ -1,1 +1,1 @@
-export const resumeFilePath = '/assets/Vishal-Bagdi-DevOps-Resume.pdf'
+export const resumeFilePath = `${import.meta.env.BASE_URL}assets/Vishal-Bagdi-DevOps-Resume.pdf`;
